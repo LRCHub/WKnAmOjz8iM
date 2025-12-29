@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "PhenomenoN",
+  "base_artist": "Laur",
+  "createdAt": "2025-12-29T17:47:46.953390Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Phenomenon",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/01_Phenomenon_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lazarus Phenomenon",
+      "artist": "Bike For Three!",
+      "has_synced": true,
+      "path": "select/02_Lazarus_Phenomenon_Bike_For_Three!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Phenomenon",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/03_Phenomenon_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Demonoid Phenomenon",
+      "artist": "Rob Zombie",
+      "has_synced": true,
+      "path": "select/04_Demonoid_Phenomenon_Rob_Zombie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Demonoid Phenomenon (Sin Lives Mix)",
+      "artist": "Rob Zombie",
+      "has_synced": false,
+      "path": "select/05_Demonoid_Phenomenon_(Sin_Lives_Mix)_Rob_Zombie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sky Phenomenon",
+      "artist": "Jens Lekman",
+      "has_synced": false,
+      "path": "select/06_Sky_Phenomenon_Jens_Lekman.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Phenomenon of Luminosity",
+      "artist": "Hawkwind",
+      "has_synced": false,
+      "path": "select/07_The_Phenomenon_of_Luminosity_Hawkwind.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Phenomenon - Bonus",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/08_Phenomenon_-_Bonus_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Phenomenon",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/09_Phenomenon_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Phenomenon",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": true,
+      "path": "select/10_Phenomenon_Thousand_Foot_Krutch.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Carry on Phenomenon",
+      "artist": "Kishi Bashi",
+      "has_synced": false,
+      "path": "select/11_Carry_on_Phenomenon_Kishi_Bashi.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Phenomenon",
+      "artist": "Unknown Brain feat. Dax, Hoober & VinDon",
+      "has_synced": true,
+      "path": "select/12_Phenomenon_Unknown_Brain_feat._Dax,_Hoober_&_VinDon.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Phenomenon",
+      "artist": "Unknown Brain",
+      "has_synced": true,
+      "path": "select/13_Phenomenon_Unknown_Brain.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Phenomenon (Cast Version)",
+      "artist": "The Cast of RuPaul's Drag Race, Season 13",
+      "has_synced": true,
+      "path": "select/14_Phenomenon_(Cast_Version)_The_Cast_of_RuPaul's_Drag_Race,_Season_13.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PhenomenoN (feat. Tia)",
+      "artist": "Laur",
+      "has_synced": false,
+      "path": "select/pl_01_PhenomenoN_(feat._Tia)_Laur.txt"
+    }
+  ]
+}
